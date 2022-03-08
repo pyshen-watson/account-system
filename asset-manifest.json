@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/account-system/static/css/main.5c472621.css",
+    "main.js": "/account-system/static/js/main.7b78c70d.js",
+    "index.html": "/account-system/index.html",
+    "main.5c472621.css.map": "/account-system/static/css/main.5c472621.css.map",
+    "main.7b78c70d.js.map": "/account-system/static/js/main.7b78c70d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c472621.css",
+    "static/js/main.7b78c70d.js"
+  ]
+}
