@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #006AFF;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+}

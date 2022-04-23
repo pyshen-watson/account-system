@@ -1,27 +1,53 @@
-.account{
-    margin: 0px 10px;
+.container{
+    background-color: #00B2FF;
+    margin: 10px 0px 10px 10px;
+    padding: 5px 15px;
+    border-radius: 30px;
+    width: fit-content;
+
+
 }
 
-legend{
-    padding: 0px 5px;
-}
-
-.row{
-    display: flex;
-    flex-direction: row;
-margin: 3px 0px;
-}
-.row > input {
+.container div input{
     width: 5rem;
 }
 
-.red{
-    color:red;
+.container .control{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3px;
 }
 
-.blue{
-    color:blue;
+.container h3 a{
+    text-decoration: none;
+    color: black;
 }
-.green{
+
+.container div button{
+    background-color: #006AFF;
+    color: white;
+    border: 0px;
+    padding: 2px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.container div button:hover{
+    color: lightgray;
+}
+
+
+
+
+
+.container .red{
+    color:red;
+    font-weight: bolder;
+}
+.container .blue{
+    color:blue;
+    font-weight: bolder;
+}
+.container .green{
     color: green;
+    font-weight: bolder;
 }
