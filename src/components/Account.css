@@ -1,15 +1,19 @@
 .container{
     background-color: #00B2FF;
-    margin: 10px 0px 10px 10px;
+    margin: 10px;
     padding: 5px 15px;
     border-radius: 30px;
     width: fit-content;
-
+    height: fit-content;
 
 }
 
 .container div input{
     width: 5rem;
+    text-align: right;
+    border-radius: 5px;
+    border: 0px;
+    padding: 2px;
 }
 
 .container .control{
@@ -24,7 +28,7 @@
 }
 
 .container div button{
-    background-color: #006AFF;
+    background-color: #004ab0;
     color: white;
     border: 0px;
     padding: 2px;

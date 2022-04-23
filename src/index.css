@@ -4,10 +4,15 @@
 }
 
 body{
-    background-color: #006AFF;
+    background-color: #00B2FF;
+    display: flex;
+    justify-content: center;
 }
 
 main{
+    background-color: #006AFF;
+    width: fit-content;
+    height: 100vh;
     display: flex;
     justify-content: space-between;
 }
